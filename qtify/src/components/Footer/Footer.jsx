@@ -16,8 +16,8 @@ const Footer = () => {
 				<ul className={styles.link_items}>
 					<li>Bengaluru, India</li>
 					<li>qtify@gmail.com</li>
-					<li>+91 7789874574254</li>
-					<li>02145-54214525</li>
+					<li>+91 63026-00617</li>
+					<li>0866-247872478</li>
 				</ul>
 			</div>
 		</div>
